@@ -141,7 +141,39 @@ header{
     height: 35vh;
     background: #eee;
     display: flex;
+    align-items: center;
+}
+.cat-main{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3B82F6;
+    width: 70%;
+    height: 100px;
+    margin: 0 auto;
 }
 .cat-container{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: inherit;  
+}
+.cat-hero{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.cat-para{
+    color: #E5E7EB;
+    font-size: 14px;
+}
+.cat-button a{
+
+    border: 2px solid white;
+    padding: 8px 32px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
 }
