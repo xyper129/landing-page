@@ -133,4 +133,15 @@ header{
     margin: 0 auto;
     width: 50%;
     font-weight: 600;
+    color: #1F2937;
+}
+/* CALL TO ACTION SECTION */
+#cat{
+    width: 100%;
+    height: 35vh;
+    background: #eee;
+    display: flex;
+}
+.cat-container{
+    display: flex;
 }
